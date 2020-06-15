@@ -10,4 +10,4 @@ This project is a minimal boilerplate code that displays hello world
 
 If you find the steps to be a bit complex then [go here]
 
-[go here]: https://stackoverflow.com/questions/49353199/how-to-change-the-app-display-name-build-with-flutter
+[go here]: https://stackoverflow.com/questions/51534616/how-to-change-package-name-in-flutter
