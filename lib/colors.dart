@@ -1,3 +1,3 @@
 // initialise your colors here as constants
 
-import 'package:flutter/material.dart';
+import 'package:flutter_boilerplate/dependencies.dart';
